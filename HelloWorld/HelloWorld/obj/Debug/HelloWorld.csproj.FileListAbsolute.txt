@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\user\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\user\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\user\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\user\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\user\Documents\Learn-C-Sharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\user\Documents\Learn-C-Sharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\user\Documents\Learn-C-Sharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\user\Documents\Learn-C-Sharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Learn-C-Sharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Learn-C-Sharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\user\Documents\Learn-C-Sharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
